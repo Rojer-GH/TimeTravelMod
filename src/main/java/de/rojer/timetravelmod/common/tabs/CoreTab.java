@@ -1,15 +1,15 @@
-package de.rojer.timetravelmod.common.groups;
+package de.rojer.timetravelmod.common.tabs;
 
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
 
-public class CoreItemGroup extends ItemGroup{
+public class CoreTab extends ItemGroup{
 
-	public static final String ITEM_GROUP_NAME = "TTM:Core";
+	public static final String NAME = "core";
 	
-	public CoreItemGroup() {
-		super(ITEM_GROUP_NAME);
+	public CoreTab() {
+		super(NAME);
 	}
 
 	@Override

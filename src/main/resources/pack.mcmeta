@@ -1,7 +1,6 @@
 {
     "pack": {
         "description": "Time Travel Mod Resources",
-        "pack_format": 6,
-        "_comment": "Just a comment."
+        "pack_format": 6
     }
 }
