@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "BEB",
+        " g "
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "E": {
+            "item": "timetravelmod:time_core"
+        }
+    },
+    "result": {
+        "item": "timetravelmod:time_manipulator",
+        "count": 1
+    }
+}

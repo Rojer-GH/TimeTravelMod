@@ -1,10 +1,10 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:iron_nugget"
+        "item": "minecraft:stick"
     },
     "addition": {
-        "item": "minecraft:stick"
+        "item": "minecraft:iron_ingot"
     },
     "result": {
     	"item": "timetravelmod:iron_rod",

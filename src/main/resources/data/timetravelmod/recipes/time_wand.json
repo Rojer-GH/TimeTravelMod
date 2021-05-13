@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " / ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "timetravelmod:time_manipulator"
+        },
+        "/": {
+            "item": "timetravelmod:iron_rod"
+        }
+    },
+    "result": {
+    	"item": "timetravelmod:time_wand",
+        "count": 1
+    }
+}

@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
     "textures": {
-    	"layer0": "timetravelmod:items/iron_rod"   
+    	"layer0": "timetravelmod:items/time_wand"   
     }
 }
