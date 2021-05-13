@@ -2,6 +2,9 @@
 
 	"item.timetravelmod.iron_rod": "Iron Rod",
 	
+	"item.timetravelmod.time_core": "Time Core",
+	"item.timetravelmod.time_manipulator": "Time Manipulator",
+	
 	"itemGroup.core": "TTM:Core"
 
 }

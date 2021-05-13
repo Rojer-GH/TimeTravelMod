@@ -1,8 +1,8 @@
 package de.rojer.timetravelmod.common.tabs;
 
+import de.rojer.timetravelmod.core.init.ItemInit;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 
 public class CoreTab extends ItemGroup{
 
@@ -14,7 +14,7 @@ public class CoreTab extends ItemGroup{
 
 	@Override
 	public ItemStack makeIcon() {
-		return Items.ACACIA_BOAT.getDefaultInstance();
+		return ItemInit.TIME_MANIPULATOR_ITEM.get().getDefaultInstance();
 	}
 
 }
