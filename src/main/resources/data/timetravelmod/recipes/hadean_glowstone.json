@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "GnG",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "G": {
+            "item": "minecraft:glowstone"
+        },
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "timetravelmod:hadean_glowstone",
+        "count": 4
+    }
+}

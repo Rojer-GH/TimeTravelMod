@@ -1,11 +1,21 @@
 {
 
+	"block.timetravelmod.hadean_glowstone": "Hadean Glowstone",
+	"block.timetravelmod.hadean_obsidian": "Hadean Obsidian",
+	"block.timetravelmod.hadean_portal": "Hadean Portal",
+
 	"item.timetravelmod.iron_rod": "Iron Rod",
 	
-	"item.timetravelmod.time_core": "Time Core",
+	"item.timetravelmod.time_gem": "Time Gem",
 	"item.timetravelmod.time_manipulator": "Time Manipulator",
 	"item.timetravelmod.time_wand": "Time Wand",
 	
-	"itemGroup.core": "TTM:Core"
+	"item.timetravelmod.hadean_time_gem": "Hadean Time Gem",
+	
+	"itemGroup.core": "TTM:Core",
+	
+	"tile.timetravelmod.hadean_glowstone": "Hadean Glowstone",
+	"tile.timetravelmod.hadean_obsidian": "Hadean Obsidian",
+	"tile.timetravelmod.hadean_portal": "Hadean Portal"
 
 }

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "timetravelmod:hadean_glowstone"
+    },
+    "addition": {
+        "item": "timetravelmod:hadean_time_gem"
+    },
+    "result": {
+        "item": "timetravelmod:hadean_portal"
+    }
+}

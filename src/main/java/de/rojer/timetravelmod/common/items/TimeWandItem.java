@@ -8,7 +8,7 @@ public class TimeWandItem extends Item {
 	public static final String NAME = "time_wand";
 
 	public TimeWandItem() {
-		super(new Properties().tab(TabInit.CORE_TAB));
+		super(new Properties().tab(TabInit.CORE_TAB).stacksTo(1));
 	}
 	
 }

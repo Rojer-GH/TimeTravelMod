@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"up": "timetravelmod:blocks/hadean_portal_up",
+		"down": "timetravelmod:blocks/hadean_obsidian",
+		"north": "timetravelmod:blocks/hadean_glowstone",
+		"south": "timetravelmod:blocks/hadean_glowstone",
+		"east": "timetravelmod:blocks/hadean_glowstone",
+		"west": "timetravelmod:blocks/hadean_glowstone",
+		"particle": "timetravelmod:blocks/hadean_portal_up"
+	}
+}

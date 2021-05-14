@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+    "textures": {
+    	"layer0": "timetravelmod:items/hadean_time_gem"   
+    }
+}
